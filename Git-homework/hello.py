@@ -1,1 +1,1 @@
-print(“Hello wonderful world”)
+print("branch2 merged into branch1")
